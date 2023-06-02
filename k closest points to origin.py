@@ -31,4 +31,3 @@ class Solution:
                 closest[i] = dist
         return [points[i] for i in closest.keys()]
     
-print(2+2)
