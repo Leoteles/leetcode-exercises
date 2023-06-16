@@ -1,5 +1,7 @@
 # https://leetcode.com/problems/merge-intervals/
-#13:48
+#13:48 13:59
+
+#Solution 5% 35%
 #%%
 class Solution:
     def merge(self, intervals):
